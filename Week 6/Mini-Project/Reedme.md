@@ -1,6 +1,9 @@
 # Real-Time Traffic Estimation Using YOLOv8
 
-![SDAIA Logo](assets/sdaia-logo.ico) ![Tuwaiq Logo](assets/tuwaiq-logo.png)
+<p align="center">
+  <img src="/assets/sdaia-logo.ico" alt="SDAIA Logo" width="150"/>
+  <img src="Week 6/Mini-Project/assets/tuwaiq-logo.png" alt="Tuwaiq Logo" width="100"/>
+</p>
 
 ### Authors: 
 - Reem Abdullah Albalawi
@@ -27,9 +30,9 @@ The primary objective of this project is to utilize YOLOv8 for real-time video a
 ### Features:
 - **Vehicle Classification**: Detects and classifies vehicles as either cars or trucks.
 - **Real-Time Vehicle Detection and Counting**: Detects vehicles in real-time, providing a total vehicle count for both right and left lanes.
-  
+
 ## Video Demo
-You can watch the video result of our real-time traffic estimation using YOLOv8 [here](link_to_your_video).
+You can watch the video result of our real-time traffic estimation using YOLOv8 [here](https://youtu.be/o4J7fSjQF7g).
 
 ## Project Overview
 
@@ -46,10 +49,10 @@ Vehicles are classified into two categories:
 
 ### Visual Results:
 #### Vehicle Detection and Counting by Lane:
-![Vehicle Detection](assets/1.png)
+![Vehicle Detection](Week 6/Mini-Project/assets/1.png)
 
 #### Traffic Density Estimation:
-![Traffic Density](assets/2.png)
+![Traffic Density](Week 6/Mini-Project/assets/2.png)
 
 
 ## Conclusion
