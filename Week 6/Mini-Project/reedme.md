@@ -1,6 +1,6 @@
 # Real-Time Traffic Estimation Using YOLOv8
 
-![SDAIA Logo](assets/sdaia-logo.png) ![Tuwaiq Logo](assets/tuwaiq-logo.png)
+![SDAIA Logo](assets/sdaia-logo.ico) ![Tuwaiq Logo](assets/tuwaiq-logo.png)
 
 ### Authors: 
 - Reem Abdullah Albalawi
@@ -51,9 +51,6 @@ Vehicles are classified into two categories:
 #### Traffic Density Estimation:
 ![Traffic Density](assets/2.png)
 
-## How to Use the Project
-You can run the project directly using the Jupyter Notebook available on GitHub: 
-- [Real-Time Detection, Counting, and Vehicle Classification](https://github.com/ReemAlbluwi/computer-vision/blob/main/Real_Time_Detection%2C_Counting%2C_and_Vehicle_Classification.ipynb)
 
 ## Conclusion
 This project provides a real-time system to estimate traffic density and classify vehicles using YOLOv8. It has potential applications in smart traffic management systems and urban planning, especially for reducing traffic congestion during peak hours.
@@ -61,4 +58,3 @@ This project provides a real-time system to estimate traffic density and classif
 ---
 
 ## Thank You!
-
