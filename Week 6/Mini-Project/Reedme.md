@@ -32,7 +32,7 @@ The primary objective of this project is to utilize YOLOv8 for real-time video a
 - **Real-Time Vehicle Detection and Counting**: Detects vehicles in real-time, providing a total vehicle count for both right and left lanes.
 
 ## Video Demo
-You can watch the video result of our real-time traffic estimation using YOLOv8 [here](link_to_your_video).
+You can watch the video result of our real-time traffic estimation using YOLOv8 [here](https://youtu.be/o4J7fSjQF7g).
 
 ## Project Overview
 
@@ -52,11 +52,8 @@ Vehicles are classified into two categories:
 ![Vehicle Detection](assets/11.png)
 
 #### Traffic Density Estimation:
-![Traffic Density](assets/2.png)
+![Traffic Density](assets/تنزيل (1).png)
 
-## How to Use the Project
-You can run the project directly using the Jupyter Notebook available on GitHub: 
-- [Real-Time Detection, Counting, and Vehicle Classification](https://github.com/ReemAlbluwi/computer-vision/blob/main/Real_Time_Detection%2C_Counting%2C_and_Vehicle_Classification.ipynb)
 
 ## Conclusion
 This project provides a real-time system to estimate traffic density and classify vehicles using YOLOv8. It has potential applications in smart traffic management systems and urban planning, especially for reducing traffic congestion during peak hours.
