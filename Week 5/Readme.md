@@ -20,22 +20,22 @@ The objective of this project is to:
 We conducted an analysis on the provided dataset and generated several key visualizations, including traffic patterns and comparisons of different cities based on traffic data.
 
 ### Jams Count per City
-![Jams Count per City](assets/1.png)
+![Jams Count per City](assest/1.png)
 
 ### Traffic Comparison with Week Ago Traffic
-![Traffic Comparison](assets/2.png)
+![Traffic Comparison](assest/2.png)
 
 ### Average Jams Delay by City
-![Average Jams Delay](assets/3.png)
+![Average Jams Delay](assest/3.png)
 
 ## Model Performance
 During the model training, we evaluated the performance of the model based on various metrics and monitored the training process to optimize it.
 
 ### Model Loss
-![Model Loss](assets/result-1.png)
+![Model Loss](assest/result-1.png)
 
 ### Performance Metrics
-![Performance Metrics](assets/result-2.png)
+![Performance Metrics](assest/result-2.png)
 
 ## Conclusion
 This project provides critical insights into road traffic accident patterns and their causes. By addressing the key findings, local authorities and policymakers can implement targeted safety measures, improving road safety for all.
