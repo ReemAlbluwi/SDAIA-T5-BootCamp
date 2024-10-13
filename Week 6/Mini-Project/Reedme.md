@@ -52,7 +52,7 @@ Vehicles are classified into two categories:
 ![Vehicle Detection](assets/11.png)
 
 #### Traffic Density Estimation:
-![Traffic Density](assets/تنزيل (1).png)
+![Traffic Density](assets/12.png)
 
 
 ## Conclusion
