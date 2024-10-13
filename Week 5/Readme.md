@@ -1,4 +1,4 @@
-# Weekly Project 2: Analysis of Road Traffic Accidents (RTA) Dataset
+# Mini Project Week 5  : Analysis of Road Traffic Accidents (RTA) Dataset
 
 ## Introduction
 This project focuses on exploring and analyzing the **Road Traffic Accidents (RTA)** dataset to uncover patterns, causes, and trends related to road safety. By understanding accident conditions and casualty details, this project aims to improve road safety through data-driven insights.
